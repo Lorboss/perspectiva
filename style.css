@@ -1,0 +1,11 @@
+body{
+    background: green;
+    background: -webkit-linear-gradient(to right, blue, yellow, black);
+    background: -o-linear-gradient(to right,blue, yellow, black);
+}
+h1{
+    background: red;
+    background: -webkit-linear-gradient(to right, white,orange);
+    background: linear-gradient(to right, white, red);
+    color: white;
+}
